@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yujiahan2018.github.io</id>
     <title>Gridea</title>
-    <updated>2020-02-25T13:40:35.237Z</updated>
+    <updated>2020-02-25T14:00:51.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yujiahan2018.github.io"/>
     <link rel="self" href="https://yujiahan2018.github.io/atom.xml"/>
@@ -11,13 +11,18 @@
     <icon>https://yujiahan2018.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
-        <title type="html"><![CDATA[集合]]></title>
-        <id>https://yujiahan2018.github.io/post/ji-he/</id>
-        <link href="https://yujiahan2018.github.io/post/ji-he/">
+        <title type="html"><![CDATA[欢迎来到于家汉技术博客]]></title>
+        <id>https://yujiahan2018.github.io/post/huan-ying-lai-dao-yu-jia-han-ji-zhu-bo-ke/</id>
+        <link href="https://yujiahan2018.github.io/post/huan-ying-lai-dao-yu-jia-han-ji-zhu-bo-ke/">
         </link>
-        <updated>2020-02-25T12:36:33.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://yujiahan2018.github.io/post-images/1582634203418.png" alt="" loading="lazy"><br>
-<img src="https://yujiahan2018.github.io/post-images/1582634212833.jpg" alt="" loading="lazy"></p>
+        <updated>2020-02-25T13:43:02.000Z</updated>
+        <content type="html"><![CDATA[<p>##初衷##<br>
+建立这个博客的初衷是因为自己在学python编程，为了记录学习过程中的一些技术层面的问题，温故而知新，防止多次踏入某些坑，同时考虑到这个博客也或许可以记录下自己学编程的一些心得、经历，所以开通了一个这样的博客<br>
+##定位##<br>
+这个博客的定位宏观上来说是编程过程中的记录（你可以把它看作是一个学习笔记，也可以看作是技术博客），从目前来讲主要面向python，当然，随着后期的学习，可能还会包括c等（这是后话。。）<br>
+##其他##<br>
+这个博客平台是由一位浙大大神推荐，现运行在本人的GitHub中<br>
+（完）</p>
 ]]></content>
     </entry>
 </feed>
