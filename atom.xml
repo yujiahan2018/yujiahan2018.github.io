@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yujiahan2018.github.io</id>
     <title>于家汉</title>
-    <updated>2020-02-26T01:36:56.583Z</updated>
+    <updated>2020-02-26T01:38:36.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yujiahan2018.github.io"/>
     <link rel="self" href="https://yujiahan2018.github.io/atom.xml"/>
@@ -10,15 +10,6 @@
     <logo>https://yujiahan2018.github.io/images/avatar.png</logo>
     <icon>https://yujiahan2018.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 于家汉</rights>
-    <entry>
-        <title type="html"><![CDATA[测试]]></title>
-        <id>https://yujiahan2018.github.io/post/about/</id>
-        <link href="https://yujiahan2018.github.io/post/about/">
-        </link>
-        <updated>2020-02-26T01:36:04.000Z</updated>
-        <content type="html"><![CDATA[<p>百度</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[开始之前]]></title>
         <id>https://yujiahan2018.github.io/post/huan-ying-lai-dao-yu-jia-han-ji-zhu-bo-ke/</id>
