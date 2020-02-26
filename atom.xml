@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yujiahan2018.github.io</id>
     <title>于家汉</title>
-    <updated>2020-02-26T00:09:21.153Z</updated>
+    <updated>2020-02-26T00:38:46.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yujiahan2018.github.io"/>
     <link rel="self" href="https://yujiahan2018.github.io/atom.xml"/>
@@ -21,8 +21,8 @@
 <h2 id="定位">定位</h2>
 <p>  这个博客的定位宏观上来说是编程过程中的记录（你可以把它看作是一个学习笔记，也可以看作是技术博客），从目前来讲主要面向python，当然，随着后期的学习，可能还会包括c等（这是后话。。）</p>
 <h2 id="其他">其他</h2>
-<p>  这个博客平台是由一位浙大大神推荐，现运行在本人的GitHub中<br>
-（完）</p>
+<p>  这个博客平台是由一位浙大大神推荐，现运行在本人的GitHub中</p>
+<p>（完）</p>
 ]]></content>
     </entry>
 </feed>
